@@ -16,7 +16,7 @@ Make sure you have the following installed:
 
 ## Application Setup
 
-* In your **PIGGY: Hunt** application folder, navigate to **piggy-hunt_Data** and open **resources.assets** in a hex editor (such as HxD). Replace **DE_1402027310012443** with your own project id, edit change_pid.py and replace the locations and project id to your one and run change_pid.py.
+* In your **PIGGY: Hunt** application folder, navigate to **piggy-hunt_Data** and open **resources.assets** in a hex editor (such as HxD). Replace **DE_1402027310012443** with your own project id, replace **1338004997867563** with your client id which is in your Beamable portal network logs, edit change_pid.py and replace the locations and project id to your one and run change_pid.py.
 
 ---
 
