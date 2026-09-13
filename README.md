@@ -26,15 +26,9 @@ Make sure you have the following installed:
 
 ---
 
-## PubNub Setup
-
-* Go to https://pubnub.com and create your own account/login to your own account, create and grab your prototype credentials and add them into the /basic/notification.php file.
-
----
-
 ## Photon Setup
 
-* Go to https://dashboard.photonengine.com and create your own account/login to your own account, check email for the account confirmation, create a new app and for **Photon SDK**, choose **Realtime**, copy app id, in your **PIGGY: Hunt** application folder, navigate to **piggy-hunt_Data** and open **resource.assets** in a hex editor (such as HxD). Replace **a34b05a1-c30c-4997-93a5-5d139a87416f** with your app id.
+* Track PIGGY: Hunt fiddler logs and find https://api.beamable.com/basic/notification, copy the Authorization and remove "Bearer " at the start and copy only the app id, in your **PIGGY: Hunt** application folder, navigate to **piggy-hunt_Data** and open **resource.assets** in a hex editor (such as HxD). Replace **a34b05a1-c30c-4997-93a5-5d139a87416f** with your app id.
 
 ---
 
