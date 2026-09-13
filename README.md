@@ -20,6 +20,12 @@ Make sure you have the following installed:
 
 ---
 
+## Beamable Setup
+
+* Read [README_BEAMABLE.md](https://github.com/PiggyHunt/PigletHunt-Beamable/blob/main/README_BEAMABLE.md) for setting up Beamable.
+
+---
+
 ## PubNub Setup
 
 * Go to https://pubnub.com and create your own account/login to your own account, create and grab your prototype credentials and add them into the /basic/notification.php file.
